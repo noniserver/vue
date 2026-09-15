@@ -1,4 +1,4 @@
-# indecision-app
+# pokemon-game
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -39,4 +39,10 @@ bun dev
 
 ```sh
 bun run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+bun lint
 ```
